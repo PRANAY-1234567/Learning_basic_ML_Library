@@ -69,5 +69,4 @@ Numerical computations
 Python practice projects
 
 👤 Author
-
 Pranay Vishwanath Jadhao
