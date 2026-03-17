@@ -38,6 +38,7 @@ Run the script:
 python numpy_basics.py
 
 📄 Code Explanation
+
 arr = np.array([1,2,3,4,5])
 
 
