@@ -46,7 +46,6 @@ Creates a NumPy array.
 
 arr_plus_one = arr + 1
 
-
 Adds 1 to every element using vectorized operations.
 
 np.sum(arr)
