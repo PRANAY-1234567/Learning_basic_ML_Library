@@ -41,7 +41,6 @@ python numpy_basics.py
 
 arr = np.array([1,2,3,4,5])
 
-
 Creates a NumPy array.
 
 arr_plus_one = arr + 1
