@@ -51,7 +51,6 @@ Adds 1 to every element using vectorized operations.
 
 np.sum(arr)
 
-
 Calculates the total sum of the array elements.
 
 📌 Output Example
